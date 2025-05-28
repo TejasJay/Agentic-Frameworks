@@ -22,3 +22,4 @@ analyst:
     meaningful insights from research data, then communicating
     those insights through well crafted reports.
   llm: openai/gpt-4o-mini
+  
