@@ -32,3 +32,4 @@ analysis_task:
   context:
     - research_task
   output_file: output/report.md
+  
