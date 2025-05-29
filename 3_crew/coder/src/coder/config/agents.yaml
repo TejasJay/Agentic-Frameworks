@@ -7,3 +7,4 @@ coder:
   backstory: >
     You're a seasoned python developer with a knack for writing clean, efficient code.
   llm: gpt-4o-mini
+  
