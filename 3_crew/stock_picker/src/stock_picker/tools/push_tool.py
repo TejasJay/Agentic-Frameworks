@@ -11,7 +11,6 @@ class PushNotification(BaseModel):
 
 class PushNotificationTool(BaseTool):
     
-
     name: str = "Send a Push Notification"
     description: str = (
         "This tool is used to send a push notification to the user."
