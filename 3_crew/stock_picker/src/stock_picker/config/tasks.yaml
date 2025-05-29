@@ -27,3 +27,4 @@ pick_best_company:
   context:
     - research_trending_companies
   output_file: output/decision.md
+
