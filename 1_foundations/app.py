@@ -1,6 +1,7 @@
 from dotenv import load_dotenv
 from openai import OpenAI
 import json
+import pandas as pd
 import os
 import requests
 from pypdf import PdfReader
