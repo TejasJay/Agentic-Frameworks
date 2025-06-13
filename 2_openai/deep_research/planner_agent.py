@@ -1,5 +1,7 @@
 from pydantic import BaseModel
 from agents import Agent
+import pandas as pd
+
 
 HOW_MANY_SEARCHES = 5
 
