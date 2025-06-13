@@ -1,5 +1,6 @@
 import gradio as gr
 from dotenv import load_dotenv
+import pandas as pd
 from research_manager import ResearchManager
 
 load_dotenv(override=True)
