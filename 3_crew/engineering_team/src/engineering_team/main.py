@@ -3,7 +3,6 @@ import sys
 import warnings
 import os
 from datetime import datetime
-import pandas as pd
 
 from engineering_team.crew import EngineeringTeam
 
