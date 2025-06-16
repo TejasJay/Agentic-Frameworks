@@ -16,7 +16,6 @@ def run():
     # Create and run the crew
     result = ResearchCrew().crew().kickoff(inputs=inputs)
 
-    # Print the result
     print("\n\n=== FINAL REPORT ===\n\n")
     print(result.raw)
 
