@@ -49,7 +49,7 @@ class Debate():
 
         return Crew(
             agents=self.agents, 
-            tasks=self.tasks, # Automatically created by the @task decorator
+            tasks=self.tasks, 
             process=Process.sequential,
             verbose=True,
         )
