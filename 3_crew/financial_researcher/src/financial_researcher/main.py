@@ -3,7 +3,6 @@
 import os
 from financial_researcher.crew import ResearchCrew
 
-# Create output directory if it doesn't exist
 os.makedirs('output', exist_ok=True)
 
 def run():
