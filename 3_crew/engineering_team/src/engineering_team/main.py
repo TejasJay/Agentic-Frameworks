@@ -36,7 +36,6 @@ def run():
         'class_name': class_name
     }
 
-    # Create and run the crew
     result = EngineeringTeam().crew().kickoff(inputs=inputs)
 
 
