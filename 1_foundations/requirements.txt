@@ -5,3 +5,4 @@ pypdf
 openai
 openai-agents
 pandas
+numpy 
